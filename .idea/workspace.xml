@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d035c0b6-470b-49b3-ac35-85197ecae904" name="Default Changelist" comment="delete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bishal.html" beforeDir="false" afterPath="$PROJECT_DIR$/bishal.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="add and remove">
+      <created>1589451783680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589451783681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add and remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="add and remove" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="193" y="0" key="CommitChangelistDialog2" timestamp="1589451768455">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="193" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1589451768455" />
+    <state x="407" y="56" key="VCS.ChangeListViewerDialog" timestamp="1589451618822">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="407" y="56" key="VCS.ChangeListViewerDialog/0.0.1280.720@0.0.1280.720" timestamp="1589451618822" />
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2" timestamp="1589451797518">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1589451797518" />
+  </component>
+</project>
